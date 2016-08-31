@@ -1,0 +1,28 @@
+{
+  "name": "node-lox-structure-file",
+  "version": "0.1.0",
+  "description": "Structure file parser and for Loxone™ API (LoxAPP3.json)",
+  "main": "lib/Factory.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alladdin/node-lox-structure-file.git"
+  },
+  "keywords": [
+    "Loxone",
+    "API",
+    "Structure"
+  ],
+  "author": "Ladislav Dokulil <alladdin@zemres.cz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alladdin/node-lox-structure-file/issues"
+  },
+  "homepage": "https://github.com/alladdin/node-lox-structure-file#readme",
+  "dependencies" : {
+      "node-lox-ws-api" : "0.1.0",
+      "sprintf-js": ">=1.0.3"
+  }
+}
