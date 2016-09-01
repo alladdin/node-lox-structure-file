@@ -1,6 +1,6 @@
 {
   "name": "node-lox-structure-file",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Structure file parser and for Loxone™ API (LoxAPP3.json)",
   "main": "lib/Factory.js",
   "scripts": {
@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/alladdin/node-lox-structure-file#readme",
   "dependencies" : {
-      "node-lox-ws-api" : "0.1.0",
       "sprintf-js": ">=1.0.3"
   }
 }
