@@ -1,6 +1,6 @@
 {
   "name": "node-lox-structure-file",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Structure file parser and for Loxone™ API (LoxAPP3.json)",
   "main": "lib/Factory.js",
   "scripts": {
